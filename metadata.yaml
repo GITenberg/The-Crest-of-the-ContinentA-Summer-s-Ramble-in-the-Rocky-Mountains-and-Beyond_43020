@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39898'
     url: http://www.gutenberg.org/2009/agents/39898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43020#The-Crest-of-the-ContinentA-Summer-s-Ramble-in-the-Rocky-Mountains-and-Beyond
 gutenberg_issued: '2013-06-24'
 gutenberg_type: Text
 identifiers:
